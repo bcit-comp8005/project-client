@@ -3,6 +3,8 @@ The compiled client for connecting to a server and helping crack a hashed passwo
 
 ### Directions
 
+Clone this repo
+
 ```
 ./client -s <server IP> -p <port>
 ```
